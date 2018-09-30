@@ -1,0 +1,10 @@
+터미널 창에 입력 (한번만 해주면됨.)
+
+sudo apt-get update
+sudo apt-get install openjdk-7-jdk
+
+후에 
+
+javac 파일이름.java
+
+java 파일이름
